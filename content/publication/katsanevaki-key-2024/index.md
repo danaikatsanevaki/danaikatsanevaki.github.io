@@ -23,7 +23,7 @@ links:
 
 image:
   filename: katsanevaki_till.jpg
-  placement: left
+
 
 
 ---
