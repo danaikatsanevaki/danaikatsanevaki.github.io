@@ -35,9 +35,8 @@ sections:
       title: '🐭🔬 Research'
       subtitle: ''
       text: |-
-        My current research focuses on understanding the underlying mechanisms of atypical visual processing in SYNGAP1-related disorder, a neurodevelopmental condition caused by heterozygous loss of the SYNGAP1 gene. To achieve this, I use in vivo calcium imaging recordings, quantitative mouse behaviour, computational methods, and pharmacological manipulations. In collaboration with [Dr Andrew Stanfield](https://edwebprofiles.ed.ac.uk/profile/dr-andrew-stanfield), we aim to develop analogous behavioural tests and non-invasive recordings in humans to identify cross-species similarities.
+        My current research focuses on understanding the underlying mechanisms of atypical visual processing in *SYNGAP1*-related disorder, a neurodevelopmental condition caused by heterozygous loss of the *SYNGAP1* gene. To achieve this, I use in vivo calcium imaging recordings, quantitative mouse behaviour, computational methods, and pharmacological manipulations. 
         
-
         Always happy to chat or explore potential collaborations 😃
     design:
       columns: '1'
