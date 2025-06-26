@@ -4,9 +4,9 @@
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
 # Website name
-title: Danai Katsanevaki
+title: 'Danai Katsanevaki'
 # Website URL
-baseURL: 'https://danaikatsanevaki.github.io/'
+baseURL: 'https://danaikatsanevaki.github.io/dkatsane.github.io/'
 
 ############################
 ## LANGUAGE
