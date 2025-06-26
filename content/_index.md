@@ -36,7 +36,7 @@ sections:
       subtitle: ''
       text: |-
         My current research focuses on understanding the underlying mechanisms of atypical visual processing in *SYNGAP1*-related disorder, a neurodevelopmental condition caused by heterozygous loss of the *SYNGAP1* gene. To achieve this, I use *in vivo* calcium imaging recordings, quantitative mouse behaviour, computational methods, and pharmacological manipulations. My work is funded by the Simons Initiative for the Developing Brain.
-        Always happy to chat or explore potential collaborations 😃
+        Always happy to chat or explore potential collaborations 😃.
     design:
       columns: '1'
   - block: markdown
