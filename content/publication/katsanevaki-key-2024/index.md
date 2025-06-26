@@ -22,7 +22,7 @@ links:
     https://www.cell.com/cell-reports/fulltext/S2211-1247(24)01084-2?uuid=uuid%3A55b1888b-28cc-4ff1-b6fe-7cd0e2d561bc
 
 image:
-  filename: katsanevaki_till_.jpg
+  filename: katsanevaki_till.jpg
   placement: left
 
 
