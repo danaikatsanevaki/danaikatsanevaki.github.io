@@ -32,16 +32,25 @@ sections:
           parallax: false
   - block: markdown
     content:
-      title: '📚 My Research'
+      title: '🐭🔬 Research'
       subtitle: ''
       text: |-
-        Use this area to speak to your mission. I'm a research scientist in the Moonshot team at DeepMind. I blog about machine learning, deep learning, and moonshots.
-
-        I apply a range of qualitative and quantitative methods to comprehensively investigate the role of science and technology in the economy.
+        My current research focuses on understanding the underlying mechanisms of atypical visual processing in SYNGAP1-related disorder, a neurodevelopmental condition caused by heterozygous loss of the SYNGAP1 gene. To achieve this, I use in vivo calcium imaging recordings, quantitative mouse behaviour, computational methods, and pharmacological manipulations. In collaboration with [Dr Andrew Stanfield](https://edwebprofiles.ed.ac.uk/profile/dr-andrew-stanfield), we aim to develop analogous behavioural tests and non-invasive recordings in humans to identify cross-species similarities.
         
-        Please reach out to collaborate 😃
+
+        Always happy to chat or explore potential collaborations 😃
     design:
       columns: '1'
+  - block: markdown
+    content:
+      title: '📕 Teaching'
+      subtitle: ''
+      text: |-
+        [MSc Integrative Neuroscience](https://postgraduate.degrees.ed.ac.uk/?r=site/view&id=196), University of Edinburgh.
+    design:
+      columns: '1'
+
+
   - block: collection
     id: papers
     content:
