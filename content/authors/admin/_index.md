@@ -22,12 +22,13 @@ highlight_name: true
 # Role/position/tagline
 role: Postdoctoral Research Fellow
 
-# Organizations/Affiliations to display in Biography block
+# Organizations/Affiliations to display in Biography blox
 organizations:
   - name: Simons Initiative for the Developing Brain, University of Edinburgh
     url: https://www.sidb.org.uk/
 
 # Social network links
+# Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
   - icon: at-symbol
     url: 'mailto:d.katsanevaki@ed.ac.uk'
@@ -47,8 +48,13 @@ education:
     institution: University of Edinburgh
   - area: MSc by Research Integrative Neuroscience
     institution: University of Edinburgh
-  - area: BSc Biomedical Sciences
+  - area: BSc Biomediacl Sciences
     institution: University of West Attica
----
 
-I'm currently a postd
+
+
+## About Me
+
+I'm currently a postdoctoral research fellow at the [Rochefort Lab](https://rochefortlab.co.uk/), based at the Centre for Discovery Brain Sciences and the Simons Initiative for the Developing Brain, University of Edinburgh. I'm fascinated by how networks of neurons process sensory information and shape our interactions with the world, and how that ability adapts or differs in neurodevelopmental conditions.
+
+---
