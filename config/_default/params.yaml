@@ -6,7 +6,7 @@
 # Appearance
 appearance:
   mode: dark
-  color: minimal
+  color: gray
 
 # SEO
 marketing:
@@ -35,7 +35,7 @@ header:
     show_search: true
     show_theme_chooser: true
     logo:
-      text: "Your Name"
+      text: "Danai Katsanevaki"
 
 # Site footer
 footer:
