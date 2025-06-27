@@ -1,6 +1,6 @@
 ---
 title: Noradrenergic-dependent restoration of visual discrimination in a mouse model
-  of SYNGAP1-related disorder
+  of *SYNGAP1*-related disorder
 authors:
 - Danai Katsanevaki
 - Nathalie Dupuy
@@ -16,10 +16,10 @@ authors:
 date: '2025-01-01'
 publishDate: '2025-06-26T16:48:35.329336Z'
 publication_types:
-- article-journal
+- preprint
 publication: '*bioRxiv*'
 
-abstract: Atypical sensory processing in neurodevelopmental disorders contributes to cognitive, social, and behavioural disruptions, yet underlying neurophysiological mechanisms remain unclear. Using a mouse model of SYNGAP1 haploinsufficiency (HET), a common monogenic cause of intellectual disability and autism, we investigated visual processing deficits. Syngap HET mice exhibited impaired behavioural visual discriminability, associated with reduced coding precision for visual stimuli in the primary visual cortex (V1). Notably, intrinsic properties of V1 neurons and visual responses under anaesthesia were unaltered, suggesting behavioural state-dependent disruptions in awake Syngap HET mice. Supporting this, both mice and individuals with SYNGAP1 haploinsufficiency exhibited larger pupil size during visual stimulation, implicating neuromodulatory dysfunction. Targeting noradrenergic tone systemically with an α2-adrenergic receptor agonist restored V1 coding precision in Syngap HET mice. Our findings reveal neuromodulatory dysregulation as a novel mechanism underlying sensory disruptions in SYNGAP1-related disorder, highlighting potential therapeutic targets for addressing sensory impairments in neurodevelopmental disorders.
+abstract: Atypical sensory processing in neurodevelopmental disorders contributes to cognitive, social, and behavioural disruptions, yet underlying neurophysiological mechanisms remain unclear. Using a mouse model of *SYNGAP1* haploinsufficiency (HET), a common monogenic cause of intellectual disability and autism, we investigated visual processing deficits. *Syngap* HET mice exhibited impaired behavioural visual discriminability, associated with reduced coding precision for visual stimuli in the primary visual cortex (V1). Notably, intrinsic properties of V1 neurons and visual responses under anaesthesia were unaltered, suggesting behavioural state-dependent disruptions in awake *Syngap* HET mice. Supporting this, both mice and individuals with *SYNGAP1* haploinsufficiency exhibited larger pupil size during visual stimulation, implicating neuromodulatory dysfunction. Targeting noradrenergic tone systemically with an α2-adrenergic receptor agonist restored V1 coding precision in *Syngap* HET mice. Our findings reveal neuromodulatory dysregulation as a novel mechanism underlying sensory disruptions in *SYNGAP1*-related disorder, highlighting potential therapeutic targets for addressing sensory impairments in neurodevelopmental disorders.
 
 
 links:
