@@ -21,6 +21,8 @@ links:
 
 image:
   filename: Padamseysex.jpg
+  caption: "ATP usage and orientation selectivity in V1 are more robustly decreased by food restriction in males than in females."
+  
 
 
 ---
