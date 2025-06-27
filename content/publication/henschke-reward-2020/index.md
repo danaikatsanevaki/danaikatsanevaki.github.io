@@ -25,8 +25,7 @@ links:
 - name: URL
   url: 
     https://www.cell.com/current-biology/fulltext/S0960-9822(20)30356-0?dgcid=raven_jbs_aip_email
-url_code: 'https://github.com/rochefort-lab/Henschke_et_al_CurrBiology2020'
-url_dataset: 'https://openneuro.org/datasets/ds006269/versions/1.0.0'    
+url_code: 'https://github.com/rochefort-lab/Henschke_et_al_CurrBiology2020' 
 
 featured: true
 
