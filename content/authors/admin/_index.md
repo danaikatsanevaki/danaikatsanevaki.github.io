@@ -48,7 +48,7 @@ education:
     institution: University of Edinburgh
   - area: MSc by Research Integrative Neuroscience
     institution: University of Edinburgh
-  - area: BSc Biomediacl Sciences
+  - area: BSc Biomedical Sciences
     institution: University of West Attica
 
 
