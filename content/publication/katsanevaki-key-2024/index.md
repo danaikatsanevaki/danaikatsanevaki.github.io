@@ -17,15 +17,17 @@ abstract: Mutations in *SYNGAP1* are a common genetic cause of intellectual disa
 
 featured: true
 
-
 links:
 - name: URL
-  url: 
-    https://www.cell.com/cell-reports/fulltext/S2211-1247(24)01084-2?uuid=uuid%3A55b1888b-28cc-4ff1-b6fe-7cd0e2d561bc
+  url: https://www.cell.com/cell-reports/fulltext/S2211-1247(24)01084-2?uuid=uuid%3A55b1888b-28cc-4ff1-b6fe-7cd0e2d561bc
+url_code: 'https://github.com/Gonzalez-Sulser-Team/SWD-Automatic-Identification'
+url_dataset: 'https://openneuro.org/datasets/ds006269/versions/1.0.0'
+
 
 image:
   filename: katsanevakicellrep.jpg
-
+  
+slides: ''
 ---
 
 Related to this paper you can find the following:
