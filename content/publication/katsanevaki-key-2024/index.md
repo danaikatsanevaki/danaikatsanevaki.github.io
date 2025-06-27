@@ -24,14 +24,14 @@ links:
 image:
   filename: katsanevakicellrep.jpg
 
-
-
 ---
 
 Related to this paper you can find the following:
-✨ [Open-source code for the Automated Detection of Spike and Wave Discharges in Rat EEG Data](https://github.com/Gonzalez-Sulser-Team/SWD-Automatic-Identification).
-📦 [Dataset-Tethered EEG Recordings in *Syngap1* rats](https://openneuro.org/datasets/ds006269/versions/1.0.0).
+
+💻 [Open-source code for the Automated Detection of Spike and Wave Discharges in Rat EEG Data](https://github.com/Gonzalez-Sulser-Team/SWD-Automatic-Identification).
+
+💾 [Dataset-Tethered EEG Recordings in *Syngap1* rats](https://openneuro.org/datasets/ds006269/versions/1.0.0).
 We also have an upcoming Protocols paper for EEGs (soon)!
 
-Also, find the SIDB rat models [here](https://sidb.org.uk/what-we-do/) and the behavioural pipeline characterisation [here]!
-(https://sidb.org.uk/facilities/rat-behavioural-phenotyping-pipeline/)
+
+Also, find the SIDB rat models 🐁 [here](https://sidb.org.uk/what-we-do/) and the behavioural pipeline characterisation [here](https://sidb.org.uk/facilities/rat-behavioural-phenotyping-pipeline/)!

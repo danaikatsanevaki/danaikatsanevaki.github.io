@@ -18,5 +18,6 @@ links:
 
 image:
   filename: preview.jpg
+  caption: "GABAergic Chandelier Cell Elimination Primes the Emergence of Binocularity in Mouse Visual Cortex"
   
 ---
