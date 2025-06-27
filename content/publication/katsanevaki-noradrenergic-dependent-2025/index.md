@@ -1,6 +1,5 @@
 ---
-title: Noradrenergic-dependent restoration of visual discrimination in a mouse model
-  of SYNGAP1-related disorder
+title: Noradrenergic-dependent restoration of visual discrimination in a mouse model of SYNGAP1-related disorder
 authors:
 - Danai Katsanevaki
 - Nathalie Dupuy
@@ -26,3 +25,6 @@ links:
 - name: URL
   url: https://www.biorxiv.org/content/10.1101/2025.04.09.647923.abstract
 ---
+
+
+🔧 The Python toolbox for Fast Image Signal Separation Analysis used can be found [here](https://github.com/rochefort-lab/fissa).
