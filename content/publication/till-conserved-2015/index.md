@@ -28,6 +28,7 @@ links:
 
 image:
   filename: asiminas.jpg
+  caption: "Loss of FMRP results in impaired performance on a hippocampus-dependent novelty preference task. (A) A schematic of the spontaneous exploration tasks for novelty preference. (B) WT rats exhibit memory for all four tasks as measured by above chance performance. (C) In contrast, *Fmr1* KO rats do not perform above chance levels in an OPC task that requires the ability to form associations between objects, their locations and the context, but do exhibit memory for the individual components as measured by above chance performance in object recognition, object-place and object-context tasks."
 
 
 
