@@ -1,6 +1,6 @@
 ---
 title: Noradrenergic-dependent restoration of visual discrimination in a mouse model
-  of *SYNGAP1*-related disorder
+  of SYNGAP1-related disorder
 authors:
 - Danai Katsanevaki
 - Nathalie Dupuy
