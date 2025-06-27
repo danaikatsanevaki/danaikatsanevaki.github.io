@@ -4,7 +4,7 @@ authors:
 - Danai Katsanevaki
 - Sally M. Till
 - Ingrid Buller-Peralta
-- ...
+- ... 
 - Peter C. Kind
 date: '2024-01-01'
 publishDate: '2025-06-26T16:48:35.322507Z'
@@ -27,3 +27,8 @@ image:
 
 
 ---
+
+Related to this paper you can find the following:
+✨ [Open-source code for the Automated Detection of Spike and Wave Discharges in Rat EEG Data](https://github.com/Gonzalez-Sulser-Team/SWD-Automatic-Identification).
+📦 [Dataset-Tethered EEG Recordings in *Syngap1* rats](https://openneuro.org/datasets/ds006269/versions/1.0.0).
+We also have an upcoming Protocols paper for EEGs (soon)!
