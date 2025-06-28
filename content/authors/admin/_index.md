@@ -56,5 +56,5 @@ education:
 
 ## 
 
-I'm currently a postdoctoral research fellow at the [Rochefort Lab](https://rochefortlab.co.uk/), based at the [Centre for Discovery Brain Sciences](https://discovery-brain-sciences.ed.ac.uk/) and the [Simons Initiative for the Developing Brain](https://www.sidb.org.uk/), University of Edinburgh. I'm fascinated by how networks of neurons process sensory information and shape our interactions with the world, and how that ability adapts or differs in neurodevelopmental conditions. 
+I'm currently a postdoctoral research fellow at the [Rochefort Lab](https://rochefortlab.co.uk/), based at the [Centre for Discovery Brain Sciences](https://discovery-brain-sciences.ed.ac.uk/) and the [Simons Initiative for the Developing Brain](https://www.sidb.org.uk/), University of Edinburgh. I'm fascinated by how networks of neurons process sensory information and shape our interactions with the world, and how that ability differs in neurodevelopmental conditions. 
 Outside the lab, I (try to) do some yoga, knit things, and make [ceramics](https://www.instagram.com/pilos__ceramics/) for mutual aid funds.
